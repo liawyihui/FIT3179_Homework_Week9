@@ -5,9 +5,9 @@
     "fontSize": 20
   },
   "width": 800,
-  "height": 800,
+  "height": 400,
   "projection": {
-    "type": "mercator"
+    "type": "equalEarth"
   },
   "data": {
     "url": "https://raw.githubusercontent.com/liawyihui/3179/main/js/ne_110m.json",
@@ -98,6 +98,7 @@
               4000,
               6000,
               8000,
+              10000,
               13000
             ]
           }
